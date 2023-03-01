@@ -2,10 +2,15 @@ $font-size: 1rem;
 $font-color: lch(28 99 35);
 
 html {
+  font-family: 'Ubuntu';
   font-size: $font-size;
   color: $font-color;
 }
 
 img {
   width: 10em;
+}
+
+h1 {
+  color: red;
 }
